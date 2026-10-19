@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Input files/directories
+.generate_data_for_d2.py
+.data/store_config.json
+.data/2026/... 
