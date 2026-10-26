@@ -222,3 +222,9 @@ __marimo__/
 # Input files/directories
 generate_data_for_d2.py
 data
+
+# Output files
+cleaned_transactions.csv
+hourly_revenue.json
+status_pivot_table.csv
+item_refund_ratios.csv
